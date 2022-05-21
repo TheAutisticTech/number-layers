@@ -1,6 +1,6 @@
 var mod = {
-    primaryName: "random",
-    secondaryName: "-layers",
+    primaryName: "Random",
+    secondaryName: "-Layers",
     version: "1.0.0",
     engineVer: "0.2.3 P1", //DO NOT MODIFY
     debugMode: true,
