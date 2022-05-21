@@ -1,7 +1,7 @@
 var mod = {
     primaryName: "Random",
     secondaryName: "-Layers",
-    version: "1.0.0",
+    version: "0.2",
     engineVer: "0.2.3 P1", //DO NOT MODIFY
     debugMode: true,
     themes: [
@@ -15,8 +15,8 @@ var mod = {
     layerNames: [
         ["Ω-Lλγers",
         [
-            "αβγδεζηθικλμνξοπρστυφχψωΩඞ⨗☯Ѻɷ℧²³ᵝᵞᵟᵋᶿᶥᶹᵠᵡᵦᵧᵨᵩᵪא",
-            "ǝ℧א",
+            "αβγδεζηθικλμνξοπρστυφχψωΩඞ⨗☯Ѻɷ℧²³₂₃ᵝᵞᵟᵋᶿᶥᶹᵠᵡᵦᵧᵨᵩᵪѦЊЭҀ",
+            "ǝ℧Ҁ₂₃",
             ["<span class='flipped-v'>Ω</span>", "<span class='flipped-v'>Ω</span><sup>2</sup>","<span class='flipped-v'>Ω</span><sup>3</sup>","<span class='flipped-v'>Ω</span><sup>2<sup>2</sup></sup>"]
         ]],
         ["Alphabet",
