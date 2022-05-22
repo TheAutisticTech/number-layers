@@ -100,6 +100,7 @@ const game = {
         new Achievement("Idle^2", "Buy the meta upgrade", "↑<sub>2<sub>", () => game.restackLayer.metaUpgrade.level.gte(1)),
         new Achievement("No turning back", "Go meta and be reborn", "&Omega;", () => game.metaLayer.active),
         new Achievement("Endgame", "Reach layer 1.8e308 and finish "+mod.primaryName+mod.secondaryName, "Ʊ", () => game.metaLayer.layer.gte(Infinities[0])),
+        new Achievement("Superendgame", "Layer 1e1000"+mod.primaryName+mod.secondaryName, "ƱƱƱƱƱƱƱƱƱƱ", () => game.metaLayer.layer.gte(new Decimal("1e1000"))),
     ],
     secretAchievements: [
         new Achievement("A very long wait...", "Have a game with over 3 months of time", "...", () => game.timeSpent > 50803200),
