@@ -186,7 +186,7 @@ class ReStackLayer
 
     isUnlocked()
     {
-        return game.highestLayer >= 7;
+        return game.highestLayer >= 8;
     }
 
     getPermUpgradeCost()
